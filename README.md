@@ -29,6 +29,18 @@ The Student Management System is a web-based application built using the MERN (M
 
 <br>
 
+##  Live Demo
+
+Experience the Student Management System live here:
+[Click Here](https://student-management-system-68c5.onrender.com/)
+
+---
+Dashboard:
+![Main Page](mainpage.png)
+![User Page](userpage.png)
+
+<br>
+
 # Installation
 
 ```sh
