@@ -36,8 +36,9 @@ Experience the Student Management System live here:
 
 ---
 Dashboard:
-![Main Page](mainpage.png)
-![User Page](userpage.png)
+![Main Page](frontend/src/assets/mainpage.png)
+<br>
+![User Page](frontend/src/assets/userpage.png)
 
 <br>
 
@@ -188,7 +189,5 @@ If the issue persists, feel free to contact me for further assistance.
 
 Don't forget to leave a star for this project if you found the solution helpful. Thank you!
 
-# Deployment
-* Render - server side
-* Netlify - client side
+
 
